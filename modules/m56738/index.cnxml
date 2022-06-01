@@ -1,0 +1,510 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Calculus MathML Test</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m56738</md:content-id>
+  <md:title>Calculus MathML Test</md:title>
+  <md:abstract/>
+  <md:uuid>c1aba3f7-4949-423c-beb1-c874489267a1</md:uuid>
+</metadata>
+
+<content>
+  <section id="eip-424"><title>Original</title><para id="eip-116">i am editing for a test. hello.</para><para id="fs-id1168449377808"><title>sub/sup on integral</title><m:math>         <m:mo fontstyle="normal" stretchy="true">∫</m:mo>
+       <m:msubsup>
+<m:mrow/>
+         <m:mrow>
+           <m:mi>π</m:mi>
+           <m:mrow>
+             <m:mo>/</m:mo>
+           </m:mrow>
+           <m:mn>4</m:mn>
+         </m:mrow>
+         <m:mrow>
+           <m:mn>2</m:mn>
+           <m:mi>π</m:mi>
+           <m:mrow>
+             <m:mn>/3</m:mn>
+           </m:mrow>
+         </m:mrow>
+       </m:msubsup>
+       <m:mn>5</m:mn>
+       <m:mtext>sin</m:mtext>
+       <m:mi>θ</m:mi>
+<m:mspace width="0.2em"/>
+       <m:mi>d</m:mi>
+       <m:mi>θ</m:mi>
+     </m:math></para><para id="fs-id1168448176194"><title>"Tall" integral symbol</title><m:math>
+      <m:mo>∫</m:mo>
+      <m:mfrac>
+        <m:mrow>
+          <m:mi>x</m:mi>
+          <m:mo>+</m:mo>
+          <m:mn>1</m:mn>
+        </m:mrow>
+        <m:mrow>
+          <m:msup>
+            <m:mi>x</m:mi>
+            <m:mn>2</m:mn>
+          </m:msup>
+          <m:mo>−</m:mo>
+          <m:mn>7</m:mn>
+        </m:mrow>
+      </m:mfrac>
+<m:mspace width="0.2em"/>
+      <m:mi>d</m:mi>
+      <m:mi>x</m:mi>
+    </m:math>
+  </para></section><section id="eip-348"><title>Roman Integral</title><para id="eip-id1168014975625"><title>sub/sup on integral in mn</title><m:math>         <m:mn>∫</m:mn>
+       <m:msubsup>
+<m:mrow/>
+         <m:mrow>
+           <m:mi>π</m:mi>
+           <m:mrow>
+             <m:mo>/</m:mo>
+           </m:mrow>
+           <m:mn>4</m:mn>
+         </m:mrow>
+         <m:mrow>
+           <m:mn>2</m:mn>
+           <m:mi>π</m:mi>
+           <m:mrow>
+             <m:mn>/3</m:mn>
+           </m:mrow>
+         </m:mrow>
+       </m:msubsup>
+       <m:mn>5</m:mn>
+       <m:mtext>sin</m:mtext>
+       <m:mi>θ</m:mi>
+<m:mspace width="0.2em"/>
+       <m:mi>d</m:mi>
+       <m:mi>θ</m:mi>
+     </m:math></para><para id="eip-id1168014983201"><title>"Tall" integral symbol</title><m:math>
+      <m:mo>∫</m:mo>
+      <m:mfrac>
+        <m:mrow>
+          <m:mi>x</m:mi>
+          <m:mo>+</m:mo>
+          <m:mn>1</m:mn>
+        </m:mrow>
+        <m:mrow>
+          <m:msup>
+            <m:mi>x</m:mi>
+            <m:mn>2</m:mn>
+          </m:msup>
+          <m:mo>−</m:mo>
+          <m:mn>7</m:mn>
+        </m:mrow>
+      </m:mfrac>
+<m:mspace width="0.2em"/>
+      <m:mi>d</m:mi>
+      <m:mi>x</m:mi>
+    </m:math>
+  </para></section><section id="eip-662"><title>Long S </title><para id="eip-id1165600852454"><title>sub/sup on integral</title><m:math>         <m:mo stretchy="true">ſ</m:mo>
+       <m:msubsup>
+<m:mrow/>
+         <m:mrow>
+           <m:mi>π</m:mi>
+           <m:mrow>
+             <m:mo>/</m:mo>
+           </m:mrow>
+           <m:mn>4</m:mn>
+         </m:mrow>
+         <m:mrow>
+           <m:mn>2</m:mn>
+           <m:mi>π</m:mi>
+           <m:mrow>
+             <m:mn>/3</m:mn>
+           </m:mrow>
+         </m:mrow>
+       </m:msubsup>
+       <m:mn>5</m:mn>
+       <m:mtext>sin</m:mtext>
+       <m:mi>θ</m:mi>
+<m:mspace width="0.2em"/>
+       <m:mi>d</m:mi>
+       <m:mi>θ</m:mi>
+     </m:math></para><para id="eip-id1165601115410"><title>"Tall" integral symbol</title><m:math>
+      <m:mo>ſ</m:mo>
+      <m:mfrac>
+        <m:mrow>
+          <m:mi>x</m:mi>
+          <m:mo>+</m:mo>
+          <m:mn>1</m:mn>
+        </m:mrow>
+        <m:mrow>
+          <m:msup>
+            <m:mi>x</m:mi>
+            <m:mn>2</m:mn>
+          </m:msup>
+          <m:mo>−</m:mo>
+          <m:mn>7</m:mn>
+        </m:mrow>
+      </m:mfrac>
+<m:mspace width="0.2em"/>
+      <m:mi>d</m:mi>
+      <m:mi>x</m:mi>
+    </m:math>
+  </para></section><section id="eip-558"><title>Esh</title><para id="eip-id1099702"><title>sub/sup on integral</title><m:math>         <m:mo stretchy="true">ʃ</m:mo>
+       <m:msubsup>
+<m:mrow/>
+         <m:mrow>
+           <m:mi>π</m:mi>
+           <m:mrow>
+             <m:mo>/</m:mo>
+           </m:mrow>
+           <m:mn>4</m:mn>
+         </m:mrow>
+         <m:mrow>
+           <m:mn>2</m:mn>
+           <m:mi>π</m:mi>
+           <m:mrow>
+             <m:mn>/3</m:mn>
+           </m:mrow>
+         </m:mrow>
+       </m:msubsup>
+       <m:mn>5</m:mn>
+       <m:mtext>sin</m:mtext>
+       <m:mi>θ</m:mi>
+<m:mspace width="0.2em"/>
+       <m:mi>d</m:mi>
+       <m:mi>θ</m:mi>
+     </m:math></para><para id="eip-id1401888"><title>"Tall" integral symbol</title><m:math>
+      <m:mo fontsize="1">ʃ</m:mo>
+      <m:mfrac>
+        <m:mrow>
+          <m:mi>x</m:mi>
+          <m:mo>+</m:mo>
+          <m:mn>1</m:mn>
+        </m:mrow>
+        <m:mrow>
+          <m:msup>
+            <m:mi>x</m:mi>
+            <m:mn>2</m:mn>
+          </m:msup>
+          <m:mo>−</m:mo>
+          <m:mn>7</m:mn>
+        </m:mrow>
+      </m:mfrac>
+<m:mspace width="0.2em"/>
+      <m:mi>d</m:mi>
+      <m:mi>x</m:mi>
+    </m:math>
+  </para></section><section id="eip-329"><title>Voiceless Palato-Alveolar Sibilant Character</title><para id="eip-id1165603403198"><title>sub/sup on integral</title><m:math>         <m:mo stretchy="true">ʃ</m:mo>
+       <m:msubsup>
+<m:mrow/>
+         <m:mrow>
+           <m:mi>π</m:mi>
+           <m:mrow>
+             <m:mo>/</m:mo>
+           </m:mrow>
+           <m:mn>4</m:mn>
+         </m:mrow>
+         <m:mrow>
+           <m:mn>2</m:mn>
+           <m:mi>π</m:mi>
+           <m:mrow>
+             <m:mn>/3</m:mn>
+           </m:mrow>
+         </m:mrow>
+       </m:msubsup>
+       <m:mn>5</m:mn>
+       <m:mtext>sin</m:mtext>
+       <m:mi>θ</m:mi>
+<m:mspace width="0.2em"/>
+       <m:mi>d</m:mi>
+       <m:mi>θ</m:mi>
+     </m:math></para><para id="eip-id1165602637719"><title>"Tall" integral symbol</title><m:math>
+      <m:mo>ʃ</m:mo>
+      <m:mfrac>
+        <m:mrow>
+          <m:mi>x</m:mi>
+          <m:mo>+</m:mo>
+          <m:mn>1</m:mn>
+        </m:mrow>
+        <m:mrow>
+          <m:msup>
+            <m:mi>x</m:mi>
+            <m:mn>2</m:mn>
+          </m:msup>
+          <m:mo>−</m:mo>
+          <m:mn>7</m:mn>
+        </m:mrow>
+      </m:mfrac>
+<m:mspace width="0.2em"/>
+      <m:mi>d</m:mi>
+      <m:mi>x</m:mi>
+    </m:math>
+  </para></section><section id="eip-703"><title>Integral in mtext</title><para id="eip-id8010351"><title>sub/sup on integral</title><m:math>         <m:mtext>∫</m:mtext>
+       <m:msubsup>
+<m:mrow/>
+         <m:mrow>
+           <m:mi>π</m:mi>
+           <m:mrow>
+             <m:mo>/</m:mo>
+           </m:mrow>
+           <m:mn>4</m:mn>
+         </m:mrow>
+         <m:mrow>
+           <m:mn>2</m:mn>
+           <m:mi>π</m:mi>
+           <m:mrow>
+             <m:mn>/3</m:mn>
+           </m:mrow>
+         </m:mrow>
+       </m:msubsup>
+       <m:mn>5</m:mn>
+       <m:mtext>sin</m:mtext>
+       <m:mi>θ</m:mi>
+<m:mspace width="0.2em"/>
+       <m:mi>d</m:mi>
+       <m:mi>θ</m:mi>
+     </m:math></para><para id="eip-id1168593680103"><title>"Tall" integral symbol</title><m:math>
+      <m:mtext>∫</m:mtext>
+      <m:mfrac>
+        <m:mrow>
+          <m:mi>x</m:mi>
+          <m:mo>+</m:mo>
+          <m:mn>1</m:mn>
+        </m:mrow>
+        <m:mrow>
+          <m:msup>
+            <m:mi>x</m:mi>
+            <m:mn>2</m:mn>
+          </m:msup>
+          <m:mo>−</m:mo>
+          <m:mn>7</m:mn>
+        </m:mrow>
+      </m:mfrac>
+<m:mspace width="0.2em"/>
+      <m:mi>d</m:mi>
+      <m:mi>x</m:mi>
+    </m:math>
+  </para></section><section id="eip-519"><title>Size and Attributions for Esh</title><para id="eip-id4888738"><title>FONTSIZE 2</title><m:math>         <m:mo fontsize="2">ʃ</m:mo>
+       <m:msubsup>
+<m:mrow/>
+         <m:mrow>
+           <m:mi>π</m:mi>
+           <m:mrow>
+             <m:mo>/</m:mo>
+           </m:mrow>
+           <m:mn>4</m:mn>
+         </m:mrow>
+         <m:mrow>
+           <m:mn>2</m:mn>
+           <m:mi>π</m:mi>
+           <m:mrow>
+             <m:mn>/3</m:mn>
+           </m:mrow>
+         </m:mrow>
+       </m:msubsup>
+       <m:mn>5</m:mn>
+       <m:mtext>sin</m:mtext>
+       <m:mi>θ</m:mi>
+<m:mspace width="0.2em"/>
+       <m:mi>d</m:mi>
+       <m:mi>θ</m:mi>
+     </m:math></para><para id="eip-id3991873"><title>FONTSIZE 1</title><m:math>
+      <m:mo fontsize="1">ʃ</m:mo>
+      <m:mfrac>
+        <m:mrow>
+          <m:mi>x</m:mi>
+          <m:mo>+</m:mo>
+          <m:mn>1</m:mn>
+        </m:mrow>
+        <m:mrow>
+          <m:msup>
+            <m:mi>x</m:mi>
+            <m:mn>2</m:mn>
+          </m:msup>
+          <m:mo>−</m:mo>
+          <m:mn>7</m:mn>
+        </m:mrow>
+      </m:mfrac>
+<m:mspace width="0.2em"/>
+      <m:mi>d</m:mi>
+      <m:mi>x</m:mi>
+    </m:math>
+  </para><para id="eip-660"><title>Maxsize 200%</title><m:math>         <m:mo stretchy="true" maxsize="100%">ʃ</m:mo>
+       <m:msubsup>
+<m:mrow/>
+         <m:mrow>
+           <m:mi>π</m:mi>
+           <m:mrow>
+             <m:mo>/</m:mo>
+           </m:mrow>
+           <m:mn>4</m:mn>
+         </m:mrow>
+         <m:mrow>
+           <m:mn>2</m:mn>
+           <m:mi>π</m:mi>
+           <m:mrow>
+             <m:mn>/3</m:mn>
+           </m:mrow>
+         </m:mrow>
+       </m:msubsup>
+       <m:mn>5</m:mn>
+       <m:mtext>sin</m:mtext>
+       <m:mi>θ</m:mi>
+<m:mspace width="0.2em"/>
+       <m:mi>d</m:mi>
+       <m:mi>θ</m:mi>
+     </m:math></para><para id="eip-881"><title>Maxsize 150%</title><m:math>         <m:mo stretchy="true" fontsize="150%">ʃ</m:mo>
+       <m:msubsup>
+<m:mrow/>
+         <m:mrow>
+           <m:mi>π</m:mi>
+           <m:mrow>
+             <m:mo>/</m:mo>
+           </m:mrow>
+           <m:mn>4</m:mn>
+         </m:mrow>
+         <m:mrow>
+           <m:mn>2</m:mn>
+           <m:mi>π</m:mi>
+           <m:mrow>
+             <m:mn>/3</m:mn>
+           </m:mrow>
+         </m:mrow>
+       </m:msubsup>
+       <m:mn>5</m:mn>
+       <m:mtext>sin</m:mtext>
+       <m:mi>θ</m:mi>
+<m:mspace width="0.2em"/>
+       <m:mi>d</m:mi>
+       <m:mi>θ</m:mi>
+     </m:math></para></section><section id="eip-317"><title>In MTEXT</title><para id="eip-id1165679649400"><title>mathsize 2</title><m:math>         <m:mtext mathsize="2">ʃ</m:mtext>
+       <m:msubsup>
+<m:mrow/>
+         <m:mrow>
+           <m:mi>π</m:mi>
+           <m:mrow>
+             <m:mo>/</m:mo>
+           </m:mrow>
+           <m:mn>4</m:mn>
+         </m:mrow>
+         <m:mrow>
+           <m:mn>2</m:mn>
+           <m:mi>π</m:mi>
+           <m:mrow>
+             <m:mn>/3</m:mn>
+           </m:mrow>
+         </m:mrow>
+       </m:msubsup>
+       <m:mn>5</m:mn>
+       <m:mtext>sin</m:mtext>
+       <m:mi>θ</m:mi>
+<m:mspace width="0.2em"/>
+       <m:mi>d</m:mi>
+       <m:mi>θ</m:mi>
+     </m:math></para><para id="eip-id1165678350573"><title>mathsize1</title><m:math>
+      <m:mtext mathsize="1">ʃ</m:mtext>
+      <m:mfrac>
+        <m:mrow>
+          <m:mi>x</m:mi>
+          <m:mo>+</m:mo>
+          <m:mn>1</m:mn>
+        </m:mrow>
+        <m:mrow>
+          <m:msup>
+            <m:mi>x</m:mi>
+            <m:mn>2</m:mn>
+          </m:msup>
+          <m:mo>−</m:mo>
+          <m:mn>7</m:mn>
+        </m:mrow>
+      </m:mfrac>
+<m:mspace width="0.2em"/>
+      <m:mi>d</m:mi>
+      <m:mi>x</m:mi>
+    </m:math>
+  </para><para id="eip-id1165680846624"><title>mathsize 1.5</title><m:math>         <m:mtext mathsize="1.5">ʃ</m:mtext>
+       <m:msubsup>
+<m:mrow/>
+         <m:mrow>
+           <m:mi>π</m:mi>
+           <m:mrow>
+             <m:mo>/</m:mo>
+           </m:mrow>
+           <m:mn>4</m:mn>
+         </m:mrow>
+         <m:mrow>
+           <m:mn>2</m:mn>
+           <m:mi>π</m:mi>
+           <m:mrow>
+             <m:mn>/3</m:mn>
+           </m:mrow>
+         </m:mrow>
+       </m:msubsup>
+       <m:mn>5</m:mn>
+       <m:mtext>sin</m:mtext>
+       <m:mi>θ</m:mi>
+<m:mspace width="0.2em"/>
+       <m:mi>d</m:mi>
+       <m:mi>θ</m:mi>
+     </m:math></para><para id="eip-id1165679907170"><title>mathsize 1.75</title><m:math>         <m:mtext mathsize="1.75">ʃ</m:mtext>
+       <m:msubsup>
+<m:mrow/>
+         <m:mrow>
+           <m:mi>π</m:mi>
+           <m:mrow>
+             <m:mo>/</m:mo>
+           </m:mrow>
+           <m:mn>4</m:mn>
+         </m:mrow>
+         <m:mrow>
+           <m:mn>2</m:mn>
+           <m:mi>π</m:mi>
+           <m:mrow>
+             <m:mn>/3</m:mn>
+           </m:mrow>
+         </m:mrow>
+       </m:msubsup>
+       <m:mn>5</m:mn>
+       <m:mtext>sin</m:mtext>
+       <m:mi>θ</m:mi>
+<m:mspace width="0.2em"/>
+       <m:mi>d</m:mi>
+       <m:mi>θ</m:mi>
+     </m:math></para></section><para id="fs-id1168448164622">
+    <title>Sigma</title>
+    <m:math>
+      <m:munderover>
+        <m:mo>∑</m:mo>
+        <m:mrow>
+          <m:mi>n</m:mi>
+          <m:mo>=</m:mo>
+          <m:mn>1</m:mn>
+        </m:mrow>
+        <m:mrow>
+          <m:mi mathvariant="normal">∞</m:mi>
+        </m:mrow>
+      </m:munderover>
+      <m:msub>
+        <m:mi>x</m:mi>
+        <m:mrow>
+          <m:mi>n</m:mi>
+        </m:mrow>
+      </m:msub>
+    </m:math>
+  </para>
+
+  <para id="fs-id1168449645282">
+    <title>Notation below limit</title>
+    <m:math>
+      <m:munder>
+        <m:mo movablelimits="true" form="prefix">lim</m:mo>
+        <m:mrow>
+          <m:mi>x</m:mi>
+          <m:mo stretchy="false">→</m:mo>
+          <m:mi mathvariant="normal">∞</m:mi>
+        </m:mrow>
+      </m:munder>
+      <m:mo stretchy="false">(</m:mo>
+      <m:mi>x</m:mi>
+      <m:mo>+</m:mo>
+      <m:mi>y</m:mi>
+      <m:mo stretchy="false">)</m:mo>
+    </m:math>
+  </para></content>
+
+</document>
